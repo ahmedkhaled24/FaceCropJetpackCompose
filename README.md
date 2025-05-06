@@ -1,4 +1,4 @@
-# FaceCropJetpackCompose
+# Face Crop
 
 An Android application built with **Jetpack Compose**, **CameraX**, **ML Kit**, and **OpenCV** to capture an image, detect the face using eye landmarks, and crop the face area accordingly.
 
